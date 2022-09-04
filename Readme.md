@@ -12,7 +12,7 @@
 
 ## Technologies Used
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Html5' src='https://img.shields.io/badge/HTML5-100000?style=flat-square&logo=Html5&logoColor=white&labelColor=E41A1A&color=F71010'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/HTML5-100000?style=flat-square&logo=CSS3&logoColor=white&labelColor=1F18EA&color=1F18EA'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Html5' src='https://img.shields.io/badge/HTML5-100000?style=flat-square&logo=Html5&logoColor=white&labelColor=E41A1A&color=F71010'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS_3 -100000?style=flat-square&logo=CSS3&logoColor=white&labelColor=3618E0&color=3618E0'/></a>
 
 ## Time Taken
 
